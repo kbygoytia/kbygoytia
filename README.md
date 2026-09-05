@@ -11,7 +11,9 @@
 - Bilingual (English / Spanish).
   
 ## Beyond the data
-Big reader (yes, BookTok) · Four years of community-engagement leadership · Currently leveling up Power BI, Tableau & a little AWS
+- Big reader (love BookTok) 
+- Four years of community-engagement leadership
+- Currently leveling up Power BI, Tableau & a little AWS
 
 ##  Tech Stack
 
