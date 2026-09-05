@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Kim 👋
 
-<!--
-**kbygoytia/kbygoytia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **data analyst** and recent Smith College graduate (Computer Science +
+Statistical & Data Sciences). I turn messy, real-world data into clear
+decisions — statistical models, dashboards, and pipelines — and I explain what
+they mean to people who don't speak SQL.
 
-Here are some ideas to get you started:
+🔭 Building an end-to-end supply-chain BI dashboard (SQL · Python · Power BI/DAX)
+🌱 Deepening Power BI, Tableau, and cloud (AWS)
+💬 Ask me about R, regression modeling, or LLM evaluation (Honda capstone)
+📫 kbygoytia@gmail.com · [LinkedIn](https://www.linkedin.com/in/kimberly-by-goytia) · [Portfolio](https://github.com/kbygoytia/data-analytics-portfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Toolbox:** SQL · Python (pandas, statsmodels, scikit-learn) · R · Power BI · Tableau · Excel · MATLAB · Git
