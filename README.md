@@ -4,12 +4,11 @@
 
 </div>
 
-## 👩‍💻 About me
+## About me
 
-- 🎓 Smith College grad — **Computer Science + Statistical & Data Sciences**
-- 📊 I turn messy, real-world data into clear decisions — models, dashboards, and pipelines — and explain them to people who don't speak SQL
-- ✍️ A writer at heart: the "so what" and the storytelling are where I do my best work
-- 🌎 Bilingual (English / Spanish) · based in Memphis, open to remote & relocation
+- Smith College grad — **Computer Science + Statistical & Data Sciences**
+- I turn messy, real-world data into clear decisions (models, dashboards, and pipelines) and explain them to people who don't speak SQL
+- Bilingual (English / Spanish) · based in Memphis, open to remote & relocation
 
 ## 🛠️ Tech Stack
 
@@ -34,27 +33,27 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📌 Featured Projects
+## Featured Projects
 
-**🏭 Warehouse & Fulfillment Operations Dashboard** — *building now*
+** Warehouse & Fulfillment Operations Dashboard** — *building now*
 Where do orders slip, what do delays cost, and what should ops fix first?
 `SQL` · `Python` · `Power BI / DAX`
 
-**🧾 Market-Data Usage & Reconciliation Engine** — *building now*
+** Market-Data Usage & Reconciliation Engine** — *building now*
 Are we billed for exactly the data we're entitled to and use?
 `Python` · `SQL` · `Excel`
 
-**🤖 In-Context Learning for LLMs** — Honda / 99P Labs capstone
+** In-Context Learning for LLMs** — Honda / 99P Labs capstone
 Co-built an automated model-evaluation pipeline (Python + Langfuse) and co-authored the writeup.
 → [Read on Medium](https://medium.com/99p-labs/in-context-learning-for-llms-cd2051416904)
 
 ➡️ **[See all my work in my portfolio](https://github.com/kbygoytia/data-analytics-portfolio)**
 
-## ✨ Beyond the data
+## Beyond the data
 
-📚 Big reader (yes, BookTok) · ✍️ personal essays & writing · 🫶 four years of community-engagement leadership · 🌱 currently leveling up Power BI, Tableau & a little AWS
+Big reader (yes, BookTok) · Personal essays & writing · Four years of community-engagement leadership · Currently leveling up Power BI, Tableau & a little AWS
 
-## 📫 Where to reach me
+## Where to reach me
 
 📧 **kbygoytia@gmail.com** · 🔗 **[LinkedIn](https://www.linkedin.com/in/kimberly-by-goytia)** · 💼 **[Portfolio](https://github.com/kbygoytia/data-analytics-portfolio)**
 
