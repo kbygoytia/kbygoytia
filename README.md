@@ -1,12 +1,12 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F7480,100:B4711A&height=200&section=header&text=Kimberly%20By%20Goytia&fontSize=42&fontColor=ffffff&desc=Data%20and%20BI%20Analyst&descSize=18&descAlignY=60&animation=fadeIn)
+</div>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0F7480&center=true&width=520&lines=Hi!+I'm+Kim+%F0%9F%91%8B;Data+and+BI+Analyst;I+turn+messy+data+into+clear+decisions)](https://github.com/kbygoytia)
 
 </div>
-
-## 👩‍💻 About me
 
 ## About me
 
