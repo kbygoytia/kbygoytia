@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0F7480&center=true&width=520&lines=Hi!+I'm+Kim+%F0%9F%91%8B;Data+%26+BI+Analyst;I+turn+messy+data+into+clear+decisions)](https://github.com/kbygoytia)
@@ -34,6 +32,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)
 
 ## Featured Projects
 
@@ -59,4 +59,3 @@ Big reader (yes, BookTok) · Personal essays & writing · Four years of communit
 
 📧 **kbygoytia@gmail.com** · 🔗 **[LinkedIn](https://www.linkedin.com/in/kimberly-by-goytia)** · 💼 **[Portfolio](https://github.com/kbygoytia/data-analytics-portfolio)**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kbygoytia&hide_border=true&ring=0F7480&fire=B4711A&currStreakLabel=0F7480)](https://git.io/streak-stats)
