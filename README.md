@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F7480,100:B4711A&height=200&section=header&text=Kimberly%20By%20Goytia&fontSize=42&fontColor=ffffff&desc=Data%20%26%20BI%20Analyst&descSize=18&descAlignY=60&animation=fadeIn)
+
 
 <div align="center">
 
@@ -59,3 +59,4 @@ Big reader (yes, BookTok) · Personal essays & writing · Four years of communit
 
 📧 **kbygoytia@gmail.com** · 🔗 **[LinkedIn](https://www.linkedin.com/in/kimberly-by-goytia)** · 💼 **[Portfolio](https://github.com/kbygoytia/data-analytics-portfolio)**
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=kbygoytia&hide_border=true&ring=0F7480&fire=B4711A&currStreakLabel=0F7480)](https://git.io/streak-stats)
