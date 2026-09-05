@@ -6,9 +6,12 @@
 
 ## About me
 
-- Smith College grad — **Computer Science + Statistical & Data Sciences**
-- I turn messy, real-world data into clear decisions (models, dashboards, and pipelines) and explain them to people who don't speak SQL
-- Bilingual (English / Spanish) · based in Memphis, open to remote & relocation
+- Smith College grad — **Computer Science + Statistical & Data Sciences**.
+- I turn messy, real-world data into clear decisions through models, dashboards, and pipelines, then make the results useful to the people who need them.
+- Bilingual (English / Spanish).
+  
+## Beyond the data
+Big reader (yes, BookTok) · Four years of community-engagement leadership · Currently leveling up Power BI, Tableau & a little AWS
 
 ##  Tech Stack
 
@@ -50,10 +53,6 @@ Co-built an automated model-evaluation pipeline (Python + Langfuse) and co-autho
 → [Read on Medium](https://medium.com/99p-labs/in-context-learning-for-llms-cd2051416904)
 
  **[See all my work in my portfolio](https://github.com/kbygoytia/data-analytics-portfolio)**
-
-## Beyond the data
-
-Big reader (yes, BookTok) · Personal essays & writing · Four years of community-engagement leadership · Currently leveling up Power BI, Tableau & a little AWS
 
 ## Where to reach me
 
