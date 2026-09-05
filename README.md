@@ -57,8 +57,3 @@ Big reader (yes, BookTok) · Personal essays & writing · Four years of communit
 
 📧 **kbygoytia@gmail.com** · 🔗 **[LinkedIn](https://www.linkedin.com/in/kimberly-by-goytia)** · 💼 **[Portfolio](https://github.com/kbygoytia/data-analytics-portfolio)**
 
-<div align="center">
-
-![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbygoytia&show_icons=true&hide_border=true&title_color=0F7480&icon_color=0F7480)
-
-</div>
