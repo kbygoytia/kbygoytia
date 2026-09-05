@@ -1,5 +1,5 @@
 # Hi, I'm Kimberly By Goytia!
-<div align="center">
+<div align="left">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0F7480&center=true&width=520&lines=Data+and+BI+Analyst;I+turn+messy+data+into+clear+decisions)](https://github.com/kbygoytia)
 
