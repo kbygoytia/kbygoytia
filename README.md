@@ -10,7 +10,7 @@
 - I turn messy, real-world data into clear decisions (models, dashboards, and pipelines) and explain them to people who don't speak SQL
 - Bilingual (English / Spanish) · based in Memphis, open to remote & relocation
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages & querying**
 
