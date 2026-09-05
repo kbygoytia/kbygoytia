@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0F7480&center=true&width=520&lines=Hi!+I'm+Kim+%F0%9F%91%8B;Data+and+BI+Analyst;I+turn+messy+data+into+clear+decisions)](https://github.com/kbygoytia)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0F7480&center=true&width=520&lines=Hi!+I'm+Kim+!;Data+and+BI+Analyst;I+turn+messy+data+into+clear+decisions)](https://github.com/kbygoytia)
 
 </div>
 
