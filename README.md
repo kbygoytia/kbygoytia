@@ -35,19 +35,19 @@
 
 ## Featured Projects
 
-** Warehouse & Fulfillment Operations Dashboard** — *building now*
+**Warehouse & Fulfillment Operations Dashboard** — *building now*
 Where do orders slip, what do delays cost, and what should ops fix first?
 `SQL` · `Python` · `Power BI / DAX`
 
-** Market-Data Usage & Reconciliation Engine** — *building now*
+**Market-Data Usage & Reconciliation Engine** — *building now*
 Are we billed for exactly the data we're entitled to and use?
 `Python` · `SQL` · `Excel`
 
-** In-Context Learning for LLMs** — Honda / 99P Labs capstone
+**In-Context Learning for LLMs** — Honda / 99P Labs capstone
 Co-built an automated model-evaluation pipeline (Python + Langfuse) and co-authored the writeup.
 → [Read on Medium](https://medium.com/99p-labs/in-context-learning-for-llms-cd2051416904)
 
-➡️ **[See all my work in my portfolio](https://github.com/kbygoytia/data-analytics-portfolio)**
+ **[See all my work in my portfolio](https://github.com/kbygoytia/data-analytics-portfolio)**
 
 ## Beyond the data
 
